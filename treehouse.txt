@@ -6,5 +6,6 @@
 \pard\pardeftab720
 
 \f0\fs24 \cf0 Ryan Harrivan is Treehouse member at {\field{\*\fldinst{HYPERLINK "http://teamtreehouse.com/ryanharrivan"}}{\fldrslt http://teamtreehouse.com/ryanharrivan}} \
+January 21, 2013 \
 \
 }
